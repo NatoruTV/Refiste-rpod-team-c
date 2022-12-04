@@ -2,9 +2,9 @@
 
 pip install django==3.1 
 
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py createsuperuser
-python manage.py runserver
+pip install -r requirements.txt<br>
+python manage.py migrate<br>
+python manage.py createsuperuser<br>
+python manage.py runserver<br>
 
 даник удачи))
